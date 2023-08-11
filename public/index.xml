@@ -1,0 +1,18 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Yuyi(Bill) Wang</title>
+        <link>/</link>
+        <description>Backend developer</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>billking0811@gmail.com (Bill Wang)</managingEditor>
+            <webMaster>billking0811@gmail.com (Bill Wang)</webMaster><lastBuildDate>Fri, 11 Aug 2023 00:00:00 &#43;0000</lastBuildDate>
+            <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+        <item>
+    <title>Celebrate my first post!</title>
+    <link>/myfirstpost/</link>
+    <pubDate>Fri, 11 Aug 2023 00:00:00 &#43;0000</pubDate>
+    <author>Bill Wang</author>
+    <guid>/myfirstpost/</guid>
+    <description><![CDATA[Celebrate my first post with my birthday!]]></description>
+</item>
+</channel>
+</rss>
