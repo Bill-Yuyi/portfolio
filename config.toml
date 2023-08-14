@@ -42,7 +42,7 @@ hasCJKLanguage = true
   # 网站标题, 用于 Open Graph 和 Twitter Cards
   title = "我的网站"
   # 网站描述, 用于 RSS, SEO, Open Graph 和 Twitter Cards
-  description = "Backend developer"
+  description = "Backend software developer"
   # 网站图片, 用于 Open Graph 和 Twitter Cards
   images = ["/logo.png"]
 
@@ -127,7 +127,7 @@ hasCJKLanguage = true
       #  主页显示的网站标题 (支持 HTML 格式)
       title = ""
       # 主页显示的网站副标题 (允许 HTML 格式)
-      subtitle = "Backend Developer"
+      subtitle = "Backend Software Developer"
       # 是否为副标题显示打字机动画
       typeit = true
       # 是否显示社交账号
