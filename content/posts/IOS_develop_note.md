@@ -45,7 +45,7 @@ IOS development uses MVC or MVVC design pattern.
     }
    ```
 4. MVC interaction
-   ![MVC Image](../../static/images/IMG_0337.PNG)
+   ![MVC Image](/images/IMG_0337.PNG)
 
    Imagine you have a todo list app
    * View: Displays the list of tasks
