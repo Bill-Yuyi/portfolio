@@ -3,7 +3,7 @@ draft = false
 date = 2023-08-25
 title = "IOS Development Cheat Sheet"
 description = ""
-tags = ["Swift","IOS development","OOP"]
+tags = ["Swift","IOS development","MVC"]
 +++
 
 * [Design Pattern](#design_pattern)
