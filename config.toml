@@ -153,7 +153,7 @@ hasCJKLanguage = true
 
   # 作者的社交信息设置
   [params.social]
-    GitHub = "Bill-Yuyi"
+    GitHub = ""
     Linkedin = "yuyi-wang-aa5216250/"
     Youtubelegacy = ""
     Youtubecustom = ""

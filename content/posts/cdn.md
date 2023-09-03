@@ -6,11 +6,12 @@ description = ""
 tags = ["Computer Network","System Design"]
 +++
 
-* [Definition](#definition)
+* [CDN Definition](#definition)
 * [CDN Push](#cdn-push)
 * [CDN Pull](#cdn-pull)
 
-## Definition
+
+## CDN Definition
 CDN (**Content Delievery Network**) is a group of **cache server** spread all over the world so that they can cache content close to users.
 
 By using a CDN, Not only can data be accessed faster than fetching it from origin server (latency badly influences user experience), but also reduce the load for origin server.
